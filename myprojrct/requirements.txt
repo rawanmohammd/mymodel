@@ -5,3 +5,8 @@ pandas
 sentence-transformers
 scikit-learn
 transformers
+seaborn
+rdkit-pypi
+tensorflow_addons 
+thefuzz
+openpyxl
