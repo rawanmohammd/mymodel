@@ -46,8 +46,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import StandardScaler
-
-df=pd.read_csv("/content/updated_file1.csv")
+url = 'https://raw.githubusercontent.com/rawanmohammd/cev/refs/heads/main/updated.csv'
+df=pd.read_csv(url)
 
 df.drop('index',axis= 'columns',inplace= True)
 
