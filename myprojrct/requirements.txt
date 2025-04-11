@@ -10,5 +10,4 @@ rdkit
 
 thefuzz
 openpyxl
-tensorflow==2.15.0
-tensorflow_addons==0.23.0
+
