@@ -6,7 +6,7 @@ sentence-transformers
 scikit-learn
 transformers
 seaborn
-rdkit-pypi
+rdkit
 tensorflow_addons 
 thefuzz
 openpyxl
