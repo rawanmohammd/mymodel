@@ -9,22 +9,15 @@ Original file is located at
 # Multiclass Classification for Drug Interaction
 """
 
-pip install rdkit-pypi
-
-pip install typeguard==4.4.2
-
-!pip uninstall -y typeguard tensorflow-addons
-
-!pip install typeguard==2.13.3
-!pip install tensorflow-addons
-
-!pip install tensorflow_addons --upgrade --force-reinstall
 
 
 
-pip install thefuzz
 
-pip install openpyxl
+
+
+
+
+
 
 import re
 import numpy as np
