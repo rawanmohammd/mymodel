@@ -1,3 +1,6 @@
+import os
+os.system("pip install tensorflow-addons==0.23.0")
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 import numpy as np
